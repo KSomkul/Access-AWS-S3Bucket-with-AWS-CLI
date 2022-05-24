@@ -1,5 +1,5 @@
-# Import_AWS_S3Bucket
-Pulling data from AWS S3 Bucket with two lines of code
+# Access AWS S3 Bucket with AWS CLI
+Pulling data from AWS S3 Bucket with two lines of code using AWS Command Line Interface (CLI)
 
 ## Step 1
 ### installing or updating AWS Command Line Interface (AWS CLI)
